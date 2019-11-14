@@ -1,9 +1,9 @@
 asdasdasdasd
 sadasdasdas
 sdadasdbakjsd:adas
-adsdasdasd
+添加了几个中文adsdasdasd
 sadasdasndlsakjj
-sajdlkasjdlka
+#注释下面这行被删除了
 
 添加了一句中文
 s
